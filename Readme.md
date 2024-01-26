@@ -29,7 +29,11 @@ The project structure follows a modular approach:
 
 ## 📸 Screenshots
 
-![Alt text](image.png)
+![pr1](https://github.com/SahilPB11/Expression-UI/assets/132371638/68d5417e-6481-4805-a4e9-95b943c370e5)
+
+
+![pr2](https://github.com/SahilPB11/Expression-UI/assets/132371638/baf114e7-49c1-4788-be43-3caf0a67d235)
+
 
 ## 🚦 Getting Started
 
